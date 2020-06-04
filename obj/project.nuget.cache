@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lX74obYFF9a+wFaLlMWDnVAbNrTlURVa/q9PgWLz/kgGR70SrwqiQ+T3vNTOa1mh/SMl5xolhRxw3rUkyZ8lag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\parra\\OneDrive\\Documentos\\Senai\\Polimorfismo\\Polimorfismo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\parra\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
